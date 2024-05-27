@@ -1,0 +1,26 @@
+[
+    {
+        "status": "sent",
+        "content": "Hello, how are you doing today?"
+    },
+    {
+        "status": "received",
+        "content": "I am fine, thank you! How about you?"
+    },
+    {
+        "status": "sent",
+        "content": "I'm doing well, just busy with work."
+    },
+    {
+        "status": "received",
+        "content": "That's good to hear. Keep up the good work!"
+    },
+    {
+        "status": "sent",
+        "content": "Thank you! Have a great day ahead."
+    },
+    {
+        "status": "received",
+        "content": "You too! Take care."
+    }
+]
